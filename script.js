@@ -334,12 +334,12 @@ const todoList = [
   {
     id: 1,
     name: 'Закончить работу с интернет-магазином',
-    completed: false,
+    completed: true,
   },
   {
     id: 2,
     name: 'Закончить работу с Лизой',
-    completed: false,
+    completed: true,
   },
   {
     id: 3,
@@ -349,7 +349,7 @@ const todoList = [
   {
     id: 4,
     name: 'Решить в neetcode 2 задачи',
-    completed: false,
+    completed: true,
   },
   {
     id: 5,
